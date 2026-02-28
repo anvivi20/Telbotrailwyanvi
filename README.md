@@ -1,2 +1,2 @@
-# Telbotrailwyanvi
-Pengetesan ku 
+anthropic>=0.25.0
+python-telegram-bot>=21.0
