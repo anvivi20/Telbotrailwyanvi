@@ -1,2 +1,1 @@
-anthropic>=0.25.0
-python-telegram-bot>=21.0
+aaaa
