@@ -1,0 +1,9 @@
+{
+  "name": "claude-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot Claude API via Nhost Serverless Functions",
+  "type": "module",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
